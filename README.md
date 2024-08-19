@@ -8,5 +8,4 @@ pip install SpeechRecognition pyttsx3
 
 ## Demo of the project:
 
-![demo](https://github.com/user-attachments/assets/9429d79f-af8d-4804-bc33-51585f47a214)
-
+https://github.com/user-attachments/assets/5e0d8aa1-9f8e-4576-8795-f10c85359ff0
